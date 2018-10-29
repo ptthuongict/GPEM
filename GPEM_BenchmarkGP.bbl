@@ -1,0 +1,238 @@
+\begin{thebibliography}{10}
+\bibitem{Liberman2015}
+Liberman M.
+\newblock Reproducible Research and the Common Task Method.
+\newblock Simmons Foundation Lecture, April 1, 2015: https://www.simonsfoundation.org/lecture/reproducible-research-and-the-common-task-method/ .
+
+\bibitem{Donoho2015}
+Donoho D.
+\newblock  50 years of Data Science.
+\newblock In  Tukey Centennial Workshop, Princeton, NJ. Available at: http://www.ccs.neu.edu/course/cs7280sp16/CS7280-Spring16_files/50YearsOfDataScience.pdf .
+
+\bibitem{1999Carla}
+
+\bibitem{Marcel}
+Marcel Bilger, Willard~G Manning, et~al.
+\newblock Measuring overfitting and mispecification in nonlinear models.
+\newblock Technical report, HEDG, c/o Department of Economics, University of
+  York, 2011.
+
+\bibitem{1999Carla}
+Mark A.~Friedl Carla E. Bro~dley.
+\newblock Identifying mislab eled training data.
+\newblock {\em Journal of Artifcial Intelligence Research}, 11:pp.131--167
+  (1999).
+
+\bibitem{2011Nic}
+Nicolo Cesa-Bianchi, Shai Shalev-Shwartz, and Ohad Shamir.
+\newblock Online learning of noisy data.
+\newblock {\em Information Theory, IEEE Transactions on}, 57:pp. 7907--7931
+  (2011).
+
+\bibitem{2013Tuite}
+Michael~O’Neill Clíodhna~Tuite and Anthony Brabazon.
+\newblock Towards a dynamic benchmark for genetic programming.
+\newblock In {\em In Proc. GECCO’13 (2013)}.
+
+\bibitem{2010Dav}
+Albert~Fornells David, Albert.
+\newblock A study of the effect of different types of noise on the precision of
+  supervised learning techniques.
+\newblock {\em Artif Intell Rev}, 33:pp. 275–306 (2010).
+
+\bibitem{2007Daz}
+Acuna Daza.
+\newblock An algorithm for detecting noise on supervised classification.
+\newblock In {\em In Proc. WCECS'07, (2007)}.
+
+\bibitem{2014Fré}
+Benoît Frénay.
+\newblock Classification in the presence of label noise: a survey.
+\newblock {\em IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS},
+  15:pp.845–869 (2014).
+
+\bibitem{Goncalves2013}
+Ivo Goncaves and Sara Silva.
+\newblock Balancing learning and overfitting in genetic programming with
+  interleaved sampling of training data.
+\newblock In {\em In Proc. EuroGP'13 (2013)}.
+
+\bibitem{2005Gustafson}
+S.~Gustafson and L~Vanneschi.
+\newblock Operator-based distance for genetic programming: Subtree crossover
+  distance.
+\newblock In {\em In Proc. EuroGP'05 (2005)}.
+
+\bibitem{2008Trevor}
+Trevor Hastie, Robert Tibshirani, Jerome Friedman, and James Franklin.
+\newblock The elements of statistical learning: data mining, inference and
+  prediction.
+\newblock {\em The Mathematical Intelligencer}, 27(2):83--85, 2005.
+
+\bibitem{1996Hic}
+Ray~J. Hickey.
+\newblock Noise modelling and evaluating learning from examples.
+\newblock {\em Artificial Intelligence}, 8:pp.157--179 (1996).
+
+\bibitem{Goncalves2012}
+Joana B.Melo et~al Ivo~Goncalves, Sara~Silva.
+\newblock Random sampling technique for overfitting control in genetic
+  programming.
+\newblock In {\em In Proc. EuroGP'12 (2012)}.
+
+\bibitem{2012James}
+Sean~Luke James~McDermott, David R.~White†.
+\newblock Genetic programming needs better benchmarks.
+\newblock In {\em In Proc. GECCO'12(2012)}.
+
+\bibitem{2012Jam}
+Sean Luke et~al James~McDermott, David~R.White.
+\newblock Genetic programming needs better benchmarks.
+\newblock In {\em In Proc. GECCO’12 (2012)}.
+
+\bibitem{Fit2013}
+R.Muhammad Atif~Azad Jeannie~Fitzgerald and Conor Ryan.
+\newblock A bootstrapping approach to reduce over-fitting in genetic
+  programming.
+\newblock In {\em In Proc. GECCO’13 (2013)}.
+
+\bibitem{Ni2013}
+Russ H.~Drieberg Ji~Ni and Peter~I. Rockett.
+\newblock The use of an analytic quotient operator in genetic programming.
+\newblock {\em IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION}, 17:pp. 146–152
+  (2013).
+
+\bibitem{2014John}
+Jerry~Swan John~Woodward, Simon~Martin.
+\newblock Benchmarks that matter for genetic programming.
+\newblock In {\em In Proc. GECCO’14(2014)}.
+
+\bibitem{2003Eli}
+Elias Kalapanidas, Nikolaos Avouris, Marian Craciun, and Daniel Neagu.
+\newblock Machine learning algorithms: A study on noise sensitivity.
+\newblock In {\em In Proc. 1st Balcan Conference in Informatics, (2003)}.
+
+\bibitem{1992Koza}
+John~R Koza.
+\newblock {\em Genetic programming: on the programming of computers by means of
+  natural selection}, volume~1.
+\newblock MIT press, 1992.
+
+\bibitem{2010Vanneschi}
+Mauro~Castelli Leonardo~Vanneschi and Sara Silva.
+\newblock Measuring bloat, overfitting and functional complexity in genetic
+  programming.
+\newblock In {\em In Proc. GECCO'10 (2010)}.
+
+\bibitem{2012Loh}
+Po-Ling Loh and Martin~J Wainwright.
+\newblock High-dimensional regression with noisy and missing data: Provable
+  guarantees with non-convexity.
+\newblock In {\em In Proc: Advances in Neural Information Processing Systems,
+  (2011)}.
+
+\bibitem{2010O'Neill}
+M.~O’Neill, L.~Vanneschi, S.~Gustafson and W.~Banzhaf.
+\newblock Open issues in genetic programming.
+\newblock In {\em In GPEM'10(2010)}.
+
+\bibitem{1996Mitchell}
+T~Mitchell.
+\newblock {\em Machine Learning}.
+\newblock McGraw Hill, 1996.
+
+\bibitem{Hie2014}
+Hien-Thi Nguyen.
+\newblock A study of generalization in genetic programming, specialized in
+  applied mathematics and computer science. military technical academy, vietnam
+  (2014).
+
+\bibitem{2014Uy}
+Nguyen Xuan Hoai J.M.~Dermott Nguyen~quang Uy, Pham Tuan~Anh.
+\newblock Subtree semantic geometric crossover for genetic programming,
+  accepted for publication.
+\newblock {\em Journal of Genetic Programming and Evolvable Machines}, pages
+  pp.x--xx? (2014).
+
+\bibitem{Hien2012}
+Nguyen Xuan Hoai Bob~MacKay Nguyen Thi~Hien and Nguyen~Quang Uy.
+\newblock Where should we stop - an investigation on early stopping for gp
+  learning.
+\newblock In {\em In Proc. SEAL'12 (2012)}.
+
+\bibitem{2015Mig}
+Miguel Nicolau, Alexandros Agapitos, Michael O’Neill, and Anthony Brabazon.
+\newblock Guidelines for defining benchmark problems in genetic programming.
+\newblock In {\em In Proc. CEC ’15 (2015)}.
+
+\bibitem{1994Mark}
+Mark~D Pendrith and C~Sammut.
+\newblock {\em On reinforcement learning of control actions in noisy and
+  non-Markovian domains}.
+\newblock Citeseer, 1994.
+
+\bibitem{2008Poli}
+Riccardo Poli, William~B Langdon, Nicholas~F McPhee, and John~R Koza.
+\newblock {\em A field guide to genetic programming}.
+\newblock Lulu. com, 2008.
+
+\bibitem{2002Stadle}
+P.~F Stadler.
+\newblock Fitness landscapes.
+\newblock In {\em In Proc. Biological Evolution and Statistical Physics
+  (2014)}.
+
+\bibitem{Thomas2015}
+Lee~Spector Thomas~Helmuth.
+\newblock General program synthesis benchmark suite.
+\newblock In {\em In Proc. GECCO ’15 (2015)}.
+
+\bibitem{2005Vanneschi}
+Marco Tomassini, Leonardo Vanneschi, Philippe Collard, and Manuel Clergue.
+\newblock A study of fitness distance correlation as a difficulty measure in
+  genetic programming.
+\newblock {\em Evolutionary Computation}, 13:pp. 213--239(2005).
+
+\bibitem{Uy2010}
+Hoai et~al Uy, Hien.
+\newblock Improving the generalization ability of genentic programming with
+  semantic similarity based crossover.
+\newblock In {\em In Proc. EuroGP'10 (2010)}.
+
+\bibitem{2004Vanneschi}
+Vanneschi.
+\newblock L. theory and practice for efficient genetic programming. phd thesis,
+  faculty of sciences, university of lausanne, switzerland (2004).
+
+\bibitem{2006Vanneschi}
+Tomassini M. Collard~P. Vanneschi, L. and S~V´~erel.
+\newblock Negative slope coefficient. a measure to characterize genetic
+  programming.
+\newblock In {\em In Proc. the 9th European Conference on Genetic Programming
+  (2006)}.
+
+\bibitem{David2013}
+David~R White, James McDermott, Mauro Castelli, Luca Manzoni, Brian~W Goldman,
+  Gabriel Kronberger, Wojciech Ja{\'s}kowski, Una-May O’Reilly, and Sean
+  Luke.
+\newblock Better gp benchmarks: community survey results and proposals.
+\newblock {\em Genetic Programming and Evolvable Machines}, 14:pp. 3--29
+  (2013).
+
+\bibitem{1996David}
+David~H. Wolpert.
+\newblock The lack of a priori distinctions between learning algorithms.
+\newblock {\em Neural Computation}, 8:pp. 1341--1390 (1996).
+
+\bibitem{1932Wri}
+Sewall Wright.
+\newblock {\em The roles of mutation, inbreeding, crossbreeding, and selection
+  in evolution}, volume~1.
+\newblock na, 1932.
+
+\bibitem{1999Liu}
+J.~P.~Castagna Z.~P.~Liu.
+\newblock Avoiding overfitting caused by noise using a uniform training mode.
+\newblock In {\em In Proc. on Neural Networks (1999)}.
+
+\end{thebibliography}
