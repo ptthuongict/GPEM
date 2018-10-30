@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective
+END
+multiobjective.params
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/multiobjective.params
+END
+MultiObjectiveFitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/MultiObjectiveFitness.java
+END
+MultiObjectiveStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/MultiObjectiveStatistics.java
+END
+MultiObjectiveDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/MultiObjectiveDefaults.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/README
+END

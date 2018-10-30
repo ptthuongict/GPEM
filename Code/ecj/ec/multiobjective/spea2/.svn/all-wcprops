@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/spea2
+END
+SPEA2MultiObjectiveFitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/spea2/SPEA2MultiObjectiveFitness.java
+END
+SPEA2TournamentSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/spea2/SPEA2TournamentSelection.java
+END
+SPEA2Breeder.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/spea2/SPEA2Breeder.java
+END
+SPEA2Evaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/spea2/SPEA2Evaluator.java
+END
+spea2.params
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/spea2/spea2.params
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/spea2/README
+END

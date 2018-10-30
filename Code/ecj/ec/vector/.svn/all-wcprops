@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ecj/ec/vector
+END
+DoubleVectorIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/ecj/ec/vector/DoubleVectorIndividual.java
+END
+BitVectorSpecies.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/ecj/ec/vector/BitVectorSpecies.java
+END
+BitVectorIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/ecj/ec/vector/BitVectorIndividual.java
+END
+ByteVectorIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/ecj/ec/vector/ByteVectorIndividual.java
+END
+GeneVectorSpecies.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/ecj/ec/vector/GeneVectorSpecies.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/ecj/ec/vector/README
+END
+FloatVectorSpecies.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/ecj/ec/vector/FloatVectorSpecies.java
+END
+VectorIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/ecj/ec/vector/VectorIndividual.java
+END
+IntegerVectorSpecies.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/ecj/ec/vector/IntegerVectorSpecies.java
+END
+IntegerVectorIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/ecj/ec/vector/IntegerVectorIndividual.java
+END
+VectorSpecies.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ecj/ec/vector/VectorSpecies.java
+END
+FloatVectorIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/ecj/ec/vector/FloatVectorIndividual.java
+END
+LongVectorIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/ecj/ec/vector/LongVectorIndividual.java
+END
+ShortVectorIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/ecj/ec/vector/ShortVectorIndividual.java
+END
+Gene.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/ecj/ec/vector/Gene.java
+END
+VectorDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/ecj/ec/vector/VectorDefaults.java
+END
+GeneVectorIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/ecj/ec/vector/GeneVectorIndividual.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/ecj/ec/vector/breed
+END
+VectorMutationPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/ecj/ec/vector/breed/VectorMutationPipeline.java
+END
+GeneDuplicationPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/ecj/ec/vector/breed/GeneDuplicationPipeline.java
+END
+ListCrossoverPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/ecj/ec/vector/breed/ListCrossoverPipeline.java
+END
+MultipleVectorCrossoverPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/ecj/ec/vector/breed/MultipleVectorCrossoverPipeline.java
+END
+VectorCrossoverPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/ecj/ec/vector/breed/VectorCrossoverPipeline.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/ecj/ec/vector/breed/README
+END

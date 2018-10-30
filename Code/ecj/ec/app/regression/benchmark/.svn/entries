@@ -1,0 +1,183 @@
+10
+
+dir
+16
+https://gpecj21.googlecode.com/svn/trunk/ecj/ec/app/regression/benchmark
+https://gpecj21.googlecode.com/svn
+
+
+
+2013-10-15T03:49:09.145673Z
+2
+anh.pt204@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cac9371f-bed8-d9d5-d9fb-e69c0c086444
+
+base.params
+file
+0
+
+
+add
+
+gtc
+dir
+
+
+
+add
+
+lgsc
+dir
+
+
+
+add
+
+lgx
+dir
+
+msgsc
+dir
+
+
+
+add
+
+mssc
+dir
+
+
+
+add
+
+sc
+dir
+
+sc1
+dir
+
+sgc
+dir
+
+sgc.30-0.1
+dir
+
+
+
+add
+
+sgc.30-0.1-0.3
+dir
+
+
+
+add
+
+sgc.30-0.2
+dir
+
+
+
+add
+
+sgc.30-0.2-0.3
+dir
+
+
+
+add
+
+sgc.30-0.3
+dir
+
+
+
+add
+
+sgc.30-0.3-0.3
+dir
+
+
+
+add
+
+sgc.30-0.4
+dir
+
+
+
+add
+
+sgc.30-0.4-0.3
+dir
+
+
+
+add
+
+sgc.30-0.5
+dir
+
+
+
+add
+
+sgc.30-0.5-0.3
+dir
+
+
+
+add
+
+sgc.30-0.6
+dir
+
+
+
+add
+
+sgc.30-0.7
+dir
+
+
+
+add
+
+sgc.30-0.8
+dir
+
+
+
+add
+
+sgc.30-0.9
+dir
+
+
+
+add
+
+sgsc
+dir
+
+
+
+add
+
+ssc
+dir
+

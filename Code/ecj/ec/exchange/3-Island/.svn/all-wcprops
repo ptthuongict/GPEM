@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/ecj/ec/exchange/3-Island
+END
+server.params
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/ecj/ec/exchange/3-Island/server.params
+END
+chincoteague.params
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/ecj/ec/exchange/3-Island/chincoteague.params
+END
+client.params
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/ecj/ec/exchange/3-Island/client.params
+END
+wallops.params
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/ecj/ec/exchange/3-Island/wallops.params
+END
+assateague.params
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/ecj/ec/exchange/3-Island/assateague.params
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/ecj/ec/exchange/3-Island/README
+END

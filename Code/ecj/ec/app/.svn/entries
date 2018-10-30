@@ -1,0 +1,170 @@
+10
+
+dir
+16
+https://gpecj21.googlecode.com/svn/trunk/ecj/ec/app
+https://gpecj21.googlecode.com/svn
+
+
+
+2013-11-29T04:07:08.704289Z
+16
+anh.pt204@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cac9371f-bed8-d9d5-d9fb-e69c0c086444
+
+README
+file
+
+
+
+
+2013-10-21T02:35:49.000000Z
+3499c8a2c96adb3c662f6c24f122487f
+2013-10-15T03:49:09.145673Z
+2
+anh.pt204@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2474
+
+ant
+dir
+
+async
+dir
+
+bbob
+dir
+
+coevolve1
+dir
+
+coevolve2
+dir
+
+ecsuite
+dir
+
+edge
+dir
+
+gpsemantics
+dir
+
+gui
+dir
+
+hiff
+dir
+
+klandscapes
+dir
+
+lawnmower
+dir
+
+lid
+dir
+
+majority
+dir
+
+mona
+dir
+
+moosuite
+dir
+
+multiplexer
+dir
+
+multiplexerslow
+dir
+
+mymajority
+dir
+
+nk
+dir
+
+ordertree
+dir
+
+parity
+dir
+
+phishing
+dir
+
+push
+dir
+
+regression
+dir
+
+royaltree
+dir
+
+sat
+dir
+
+spatial
+dir
+
+star
+dir
+
+sum
+dir
+
+summarization
+dir
+
+tutorial1
+dir
+
+tutorial2
+dir
+
+tutorial3
+dir
+
+tutorial4
+dir
+
+twobox
+dir
+

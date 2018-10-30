@@ -1,0 +1,17 @@
+parent.0 = ../base.params
+
+# Here's where you specify the problem and the function set:
+
+
+eval.problem.type = data
+gp.tc.0.fset = AddSubMulDivERC
+gp.fs.19.size = 7
+
+# Here's how you'd specify the training and/or testing files.
+
+
+#eval.problem.testing-file = /home/hanu/pta/projects/data/regression/data.testing.in
+#eval.problem.training-file = /home/hanu/pta/projects/data/regression/data.training.in
+eval.problem.testing-file = /home/thuongpt/ECJ-Regression/data/data.testing.in
+eval.problem.training-file = /home/thuongpt/ECJ-Regression/data/data.training.in
+stat=ec.app.phishing.PhishingStatistics

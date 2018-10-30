@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate
+END
+SteadyStateEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/SteadyStateEvaluator.java
+END
+steadystate.params
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/steadystate.params
+END
+QueueIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/QueueIndividual.java
+END
+SteadyStateStatisticsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/SteadyStateStatisticsForm.java
+END
+SteadyStateEvolutionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/SteadyStateEvolutionState.java
+END
+SteadyStateExchangerForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/SteadyStateExchangerForm.java
+END
+SteadyStateBSourceForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/SteadyStateBSourceForm.java
+END
+SteadyStateBreeder.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/SteadyStateBreeder.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/README
+END
+SteadyStateDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/ecj/ec/steadystate/SteadyStateDefaults.java
+END

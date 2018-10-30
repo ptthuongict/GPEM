@@ -1,0 +1,17 @@
+parent.0 = ../base.params
+
+# Here's where you specify the problem and the function set:
+
+
+eval.problem.type = Twitter
+gp.tc.0.fset = AddSubMulDivERC
+gp.fs.19.size = 7
+
+# Here's how you'd specify the training and/or testing files.
+
+
+#eval.problem.testing-file = /home/hanu/pta/projects/data/regression/Twitter.testing.in
+#eval.problem.training-file = /home/hanu/pta/projects/data/regression/Twitter.training.in
+eval.problem.testing-file = /home/thuongpt/ECJ-Regression/data/Twitter.testing.in
+eval.problem.training-file = /home/thuongpt/ECJ-Regression/data/Twitter.training.in
+stat=ec.app.phishing.PhishingStatistics

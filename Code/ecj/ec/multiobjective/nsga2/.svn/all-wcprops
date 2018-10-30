@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/nsga2
+END
+nsga2.params
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/nsga2/nsga2.params
+END
+NSGA2Breeder.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/nsga2/NSGA2Breeder.java
+END
+NSGA2Evaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/nsga2/NSGA2Evaluator.java
+END
+NSGA2MultiObjectiveFitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/nsga2/NSGA2MultiObjectiveFitness.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/ecj/ec/multiobjective/nsga2/README
+END

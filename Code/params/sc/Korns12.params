@@ -1,0 +1,27 @@
+parent.0 = ../base.params
+
+# Here's where you specify the problem and the function set:
+
+
+eval.problem.type = Korns12
+gp.tc.0.fset = AddSubMulDivERC
+gp.fs.19.size = 6
+
+# Here's how you'd specify the training and/or testing files.
+
+
+
+
+#eval.problem.testing-file = E:/ThucnghiemNCS_2014/ECJ_All/ECJ-Regression_server/data/Korns12.testing.in
+#eval.problem.training-file = E:/ThucnghiemNCS_2014/ECJ_All/ECJ-Regression_server/data/Korns12.training.in
+#eval.problem.validation-file=E:/ThucnghiemNCS_2014/ECJ_All/ECJ-Regression_server/data/Korns12.validation.in
+
+
+
+
+
+#eval.problem.testing-file = /home/thuongpt/ECJ-Regression/data/Korns12.testing.in
+#eval.problem.training-file = /home/thuongpt/ECJ-Regression/data/Korns12.training.in
+
+
+stat=ec.app.phishing.PhishingStatistics
